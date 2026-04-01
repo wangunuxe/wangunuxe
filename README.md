@@ -30,4 +30,4 @@
 
 ---
 
-*"Where language meets data, history comes alive."* 🌏
+*"Fluent in both human languages and machine languages — because at their core, both are just precise systems of meaning."* 🌏
