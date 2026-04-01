@@ -26,7 +26,7 @@
 ---
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-llijiechine66@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:llijiechine66@outlook.com)
+[![Email](https://img.shields.io/badge/Email-lijiechine66@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:llijiechine66@outlook.com)
 
 ---
 
