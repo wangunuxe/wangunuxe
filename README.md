@@ -2,7 +2,7 @@
 
 🎓 Linguistics PhD
 💻 Student @ École 42 Paris
-🔬 Language Data Researcher
+🔬 Data Engineer | Software Engineer
 
 ---
 ## 🛠️ Skills
