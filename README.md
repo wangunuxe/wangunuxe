@@ -1,8 +1,8 @@
 # Hi, I'm Jie LI 👋
 
+🔬 Data Engineer | Software Engineer
 🎓 Linguistics PhD
 💻 Student @ École 42 Paris
-🔬 Data Engineer | Software Engineer
 
 ---
 ## 🛠️ Skills
